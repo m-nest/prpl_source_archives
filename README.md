@@ -1,4 +1,5 @@
-# source_arhives
+# Source archives for PRPL OS
 
-Contain prplos dependencies that are currently maintained on gitlab.
-Subdir name correspond to the matching prplos revision.
+Contains prplos dependencies that are currently maintained on the gitlab.
+
+Subdir names correspond to the matching prplos revisions.
